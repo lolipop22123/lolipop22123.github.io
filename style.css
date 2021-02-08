@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.header{
+    height: 500px;
+    background-image: url(../img/header_01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header_logo{
+    font-size: 50px;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.header_inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_nav{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.nav_link{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 22px;
+    position: relative;
+
+    color: #fff;
+    text-decoration: none;
+}
+
+.intro_inner{
+    color: #fff;
+    margin: 161px;
+    margin-left: 680px;
+}
+
+.intro_suptitle{
+    font-size: 40px;
+}
+
+.intro_title{
+    font-size: 14px;
+    padding-bottom: 20px;
+    padding-top: -20px;
+}
+
+.btn{
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px 40px;
+
+    border: 2px solid #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.intro_suptitle_info{
+    margin-top: 90px;
+    padding-bottom: 38px;
+    font-size: 30px;
+}
+
+.intro_title_info{
+    padding-bottom: 83px;
+    font-size: 14px;
+}
+
+.about{
+    margin-top: 89px;
+    background-color:#2d5f3b;
+    height: 305px;
+}
+
+.about_element{
+    display: flex;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.about_item{
+    flex: 1 1 0;
+}
+
+.about_suptitle{
+    font-size: 18px;
+    color: #fff;
+}
+
+.about_title{
+    font-size: 12px;
+    color: #fff;
+}
+
+.overley{
+    background-image: url(../img/Flat-Style-Web-Template-PSD---cssauthor_07.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top:20px;
+    height: 508px;
+}
+
+
+.overley_inner{
+    text-align: center;
+}
+
+.overley_suptitle{
+    margin-top: 186px;
+    color: #fff;
+    font-size: 42px;
+}
+
+.overley_suptitle_one{
+    font-size: 42px;
+    color: #fff;
+}
+
+.btn_second{
+    color: #fff;
+    font-size: 22px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px 40px;
+
+    border: 2px solid #fff;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.pod_suptitle{
+    text-align: center;
+}
